@@ -4,5 +4,6 @@ Hello, I am Maximilian Kröll, a passionate self-taught Java and Mobile develope
 
 * 🔭 I’m currently working on extending my knowledge about [Flutter](https://flutter.dev/)
 * 🌱 I’m currently learning everything about [Flutter](https://flutter.dev/)
+* 👯 I’m looking to get in touch with other developers to work on projects together
 
 
