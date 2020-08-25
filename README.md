@@ -1,3 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Maximilian! 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=maz47&show_icons=true&theme=dracula)
+Hello, I am Maximilian Kröll, a passionate self-taught Java and Mobile developer from Austria :sunrise_over_mountains:.
+
+* 🔭 I’m currently working on extending my knowledge about [Flutter](https://flutter.dev/)
+* 🌱 I’m currently learning everything about [Flutter](https://flutter.dev/)
+
+
